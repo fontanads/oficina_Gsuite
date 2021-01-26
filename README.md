@@ -49,25 +49,22 @@ Para acessar o conteúdo de acordo com a sua ferramenta de interesse, navegue no
 
 #### 07. :tv: [Google Keep](https://youtube.com/playlist?list=PL3OJdMPhcoIwt-STZQXRk4hthl0aj2eoh)
 
-:man_teacher: Tutor: Professor [Daniel Pegoraro Bertineti](http://lattes.cnpq.br/5555907952912866).
-
 #### 08. :tv: [Google Docs](https://www.youtube.com/playlist?list=PL3OJdMPhcoIxC1Hm-BhhdVDlrizgznbON)
-
-:man_teacher: Tutor: Professor [Daniel Pegoraro Bertineti](http://lattes.cnpq.br/5555907952912866).
 
 #### 09. :tv: [Google Slides](https://youtube.com/playlist?list=PL3OJdMPhcoIx04-Z2ztUT-mBighxnegkY)
 
-:man_teacher: Tutor: Professor [Daniel Pegoraro Bertineti](http://lattes.cnpq.br/5555907952912866).
 
 #### 010. :tv: [Google Planilhas](https://youtube.com/playlist?list=PL3OJdMPhcoIw0vyssbNkiDVFY3pVgtl9x)
 
-:man_teacher: Tutor: Professor [Daniel Pegoraro Bertineti](http://lattes.cnpq.br/5555907952912866).
 
 #### 011. :tv: [Google Formulários](https://youtube.com/playlist?list=PL3OJdMPhcoIx_AnCirqBKe6by4tJ7lQQV)
 
 #### 012. :tv: [Google Sites](https://youtube.com/playlist?list=PL3OJdMPhcoIwEEN55BpgNQT8dfRswJdfq)
 
-:man_teacher: Tutor: Professor [Daniel Pegoraro Bertineti](http://lattes.cnpq.br/5555907952912866).
+
+## Agradecimentos 
+
+:man_teacher: Planejamento e Gravação das Playlists #07-10 e #12: professor [Daniel Pegoraro Bertineti](http://lattes.cnpq.br/5555907952912866).
 
 
 
