@@ -24,12 +24,16 @@ Este material foi desenvolvido para ser aplicado em oficinas presenciais com est
 
 ### Playlists no Youtube 
 
-Para assistir todos os cursos em uma única lista, veja o seguinte link:
+Para assistir todos os cursos em uma única lista, veja o seguinte link:  
 :dvd: [Playlist do Youtube **com todos os vídeos** em sequência](https://youtube.com/playlist?list=PL3OJdMPhcoIy7YLcv9w9hs1pfGdKYqc1S)
 
 Para acessar o conteúdo de acordo com a sua ferramenta de interesse, navegue nos links abaixo.  
-É importante reforçar que o material foi desenvolvido para o _G-Suite for Education_ e alguns recursos podem estar indisponíves nas versões comuns da ferramenta.  
-Eventualmente, algum vídeo pode exigir pré-conhecimento de módulos anteriores.  
+
+- :warning: É importante reforçar que o material foi desenvolvido para o _G-Suite for Education_ e alguns recursos podem estar indisponíves nas versões comuns da ferramenta.  
+- :warning: Eventualmente, algum vídeo pode exigir pré-conhecimento de módulos anteriores.  
+- :exclamation: Ferramentas são constantemente atualizadas, portanto podem haver funcionalidades obsoletas ou novas funcionalidades na versão que você está usando.
+- :exclamation: Todo conteúdo da primeira edição foi gravado entre Novembro e Dezembro de 2020, portanto podem haver alguns erros ainda não corrigidos.
+- :heavy_exclamation_mark: nós também aprendemos ao longo das gravações e edições, portanto você notará mudanças no estilo e na qualidade dos vídeos ao longo das playlists.
 
 #### 01. :tv: [Google Chrome](https://youtube.com/playlist?list=PL3OJdMPhcoIzPmnfZPpYIy03aPg5JI0gl)
 
@@ -45,15 +49,25 @@ Eventualmente, algum vídeo pode exigir pré-conhecimento de módulos anteriores
 
 #### 07. :tv: [Google Keep](https://youtube.com/playlist?list=PL3OJdMPhcoIwt-STZQXRk4hthl0aj2eoh)
 
+:man_teacher: Tutor: Professor [Daniel Pegoraro Bertineti](http://lattes.cnpq.br/5555907952912866).
+
 #### 08. :tv: [Google Docs](https://www.youtube.com/playlist?list=PL3OJdMPhcoIxC1Hm-BhhdVDlrizgznbON)
+
+:man_teacher: Tutor: Professor [Daniel Pegoraro Bertineti](http://lattes.cnpq.br/5555907952912866).
 
 #### 09. :tv: [Google Slides](https://youtube.com/playlist?list=PL3OJdMPhcoIx04-Z2ztUT-mBighxnegkY)
 
+:man_teacher: Tutor: Professor [Daniel Pegoraro Bertineti](http://lattes.cnpq.br/5555907952912866).
+
 #### 010. :tv: [Google Planilhas](https://youtube.com/playlist?list=PL3OJdMPhcoIw0vyssbNkiDVFY3pVgtl9x)
+
+:man_teacher: Tutor: Professor [Daniel Pegoraro Bertineti](http://lattes.cnpq.br/5555907952912866).
 
 #### 011. :tv: [Google Formulários](https://youtube.com/playlist?list=PL3OJdMPhcoIx_AnCirqBKe6by4tJ7lQQV)
 
 #### 012. :tv: [Google Sites](https://youtube.com/playlist?list=PL3OJdMPhcoIwEEN55BpgNQT8dfRswJdfq)
+
+:man_teacher: Tutor: Professor [Daniel Pegoraro Bertineti](http://lattes.cnpq.br/5555907952912866).
 
 
 
