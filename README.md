@@ -24,4 +24,4 @@ Este material foi desenvolvido para ser aplicado em oficinas presenciais com est
 
 ### Playlist completa
 
-[Playlist do Youtube com todos os vídeos em sequência](https://youtube.com/playlist?list=PL3OJdMPhcoIy7YLcv9w9hs1pfGdKYqc1S)
+:dvd: [Playlist do Youtube com todos os vídeos em sequência](https://youtube.com/playlist?list=PL3OJdMPhcoIy7YLcv9w9hs1pfGdKYqc1S)
