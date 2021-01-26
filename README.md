@@ -6,7 +6,7 @@ Elaborei alguns materiais de introdução às ferramentas do Google Workspace.
 
 Este material foi desenvolvido para ser aplicado em oficinas presenciais com estudantes do primeiro do ensino médio.
 
-[Slides Calendar, Keep e Docs](./Oficina&#32;sobre&#32;Ferramentas&#32;Digitais.pdf)
+:bookmark_tabs: [Slides Calendar, Keep e Docs](./Oficina&#32;sobre&#32;Ferramentas&#32;Digitais.pdf)
 
 ## Videoaulas
 
