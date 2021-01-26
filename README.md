@@ -31,8 +31,31 @@ Para acessar o conteúdo de acordo com a sua ferramenta de interesse, navegue no
 É importante reforçar que o material foi desenvolvido para o _G-Suite for Education_ e alguns recursos podem estar indisponíves nas versões comuns da ferramenta.  
 Eventualmente, algum vídeo pode exigir pré-conhecimento de módulos anteriores.  
 
-#### 1. :tv: [Google Chrome](https://youtube.com/playlist?list=PL3OJdMPhcoIzPmnfZPpYIy03aPg5JI0gl)
+#### 01. :tv: [Google Chrome](https://youtube.com/playlist?list=PL3OJdMPhcoIzPmnfZPpYIy03aPg5JI0gl)
+
+#### 02. :tv: [Google Calendar](https://youtube.com/playlist?list=PL3OJdMPhcoIyg80R_BkobLuMyxZPEE29u)
+
+#### 03. :tv: [Google Meet](https://youtube.com/playlist?list=PL3OJdMPhcoIzXSNJS_pSmPhfiX8cEMei6)
+
+#### 04. :tv: [Google Jamboard](https://youtube.com/playlist?list=PL3OJdMPhcoIyZsGwdY38Z-w2zqnjKi2Sz)
+
+#### 05. :tv: [Google Drive](https://youtube.com/playlist?list=PL3OJdMPhcoIwFF157VOTWqeO-Yc7xrnVB)
+
+#### 06. :tv: [Google Gmail e Contatos](https://youtube.com/playlist?list=PL3OJdMPhcoIxMrn7bZ7m0tvaeftMHVUZ5)
+
+#### 07. :tv: [Google Keep](https://youtube.com/playlist?list=PL3OJdMPhcoIwt-STZQXRk4hthl0aj2eoh)
+
+#### 08. :tv: [Google Docs](https://www.youtube.com/playlist?list=PL3OJdMPhcoIxC1Hm-BhhdVDlrizgznbON)
+
+#### 09. :tv: [Google Slides](https://youtube.com/playlist?list=PL3OJdMPhcoIx04-Z2ztUT-mBighxnegkY)
+
+#### 010. :tv: [Google Planilhas](https://youtube.com/playlist?list=PL3OJdMPhcoIw0vyssbNkiDVFY3pVgtl9x)
+
+#### 011. :tv: [Google Formulários](https://youtube.com/playlist?list=PL3OJdMPhcoIx_AnCirqBKe6by4tJ7lQQV)
+
+#### 012. :tv: [Google Sites](https://youtube.com/playlist?list=PL3OJdMPhcoIwEEN55BpgNQT8dfRswJdfq)
 
 
 
-#### 2. :tv: [Google Calendar]()
+
+
