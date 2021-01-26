@@ -22,6 +22,11 @@ Este material foi desenvolvido para ser aplicado em oficinas presenciais com est
 
 
 
-### Playlist completa
+### Playlists no Youtube 
 
-:dvd: [Playlist do Youtube com todos os vídeos em sequência](https://youtube.com/playlist?list=PL3OJdMPhcoIy7YLcv9w9hs1pfGdKYqc1S)
+:dvd: [Playlist do Youtube **com todos os vídeos** em sequência](https://youtube.com/playlist?list=PL3OJdMPhcoIy7YLcv9w9hs1pfGdKYqc1S)
+
+#### 1. Google Chrome 
+
+
+#### 2. Google Calendar
