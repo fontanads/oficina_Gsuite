@@ -1,6 +1,9 @@
 # Oficinas de G-Suite
 
-Elaborei alguns materiais de introdução às ferramentas do Google Workspace. 
+Em 2020, elaborei alguns materiais de introdução às ferramentas do Google Workspace.  
+O conteúdo é resultado de anos de experiência utilizando as ferramentas.  
+Os materiais foram inspirados em excelentes videoaulas e tutoriais disponíveis gratuitamente na internet.  
+A abordagem feita aqui é no contexto escolar, tanto para alunos quanto professores e servidores em geral.  
 
 ## Primeiro Contato
 
@@ -19,8 +22,6 @@ Este material foi desenvolvido para ser aplicado em oficinas presenciais com est
 :movie_camera: As gravações foram realizadas com o software [OBS Studio](https://obsproject.com/pt-br/).
 
 :film_strip: A edição completa foi realizada por mim (Bruno Fontana) utilizando o software [kdenlive](https://kdenlive.org/en/).
-
-
 
 ### Playlists no Youtube 
 
