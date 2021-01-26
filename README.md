@@ -10,7 +10,7 @@ Este material foi desenvolvido para ser aplicado em oficinas presenciais com est
 
 ## Videoaulas
 
-:school: Essas videoaulas foram realizadas como uma etapa de formação interna dos servidores do [Instituto Federal Sul-rio-grandense (Campus Sapiranga)](http://www.sapiranga.ifsul.edu.br/). 
+:school: As videoaulas a seguir foram realizadas como uma etapa de formação interna dos servidores do [Instituto Federal Sul-rio-grandense (Campus Sapiranga)](http://www.sapiranga.ifsul.edu.br/) no contexto de retomada das aulas de forma remota durante a pandemia de COVID-19. Também coincidiu com o período de [adoção das ferramentas G-Suite pelo IFSul](http://www.ifsul.edu.br/component/content/article/16-sobre/3424-acesse-o-g-suite-for-education) e a necessidade de treinamentos internos. 
 
 :calling: O treinamento ocorreu em um curso oferecido a partir do ambiente virtual de aprendizagem [Moodle](http://ava.ifsul.edu.br/sapiranga/) durante o início das Atividades Pedagógicas Não-Presenciais (APNP) de 2020.
 
