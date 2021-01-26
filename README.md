@@ -24,9 +24,15 @@ Este material foi desenvolvido para ser aplicado em oficinas presenciais com est
 
 ### Playlists no Youtube 
 
+Para assistir todos os cursos em uma única lista, veja o seguinte link:
 :dvd: [Playlist do Youtube **com todos os vídeos** em sequência](https://youtube.com/playlist?list=PL3OJdMPhcoIy7YLcv9w9hs1pfGdKYqc1S)
 
-#### 1. Google Chrome 
+Para acessar o conteúdo de acordo com a sua ferramenta de interesse, navegue nos links abaixo.  
+É importante reforçar que o material foi desenvolvido para o _G-Suite for Education_ e alguns recursos podem estar indisponíves nas versões comuns da ferramenta.  
+Eventualmente, algum vídeo pode exigir pré-conhecimento de módulos anteriores.  
+
+#### 1. :tv: [Google Chrome](https://youtube.com/playlist?list=PL3OJdMPhcoIzPmnfZPpYIy03aPg5JI0gl)
 
 
-#### 2. Google Calendar
+
+#### 2. :tv: [Google Calendar]()
